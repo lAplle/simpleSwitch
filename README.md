@@ -1,3 +1,3 @@
-Si desea utilizarla, recuerde cambiar el hostname donde se aloja su servidor en src/app/app.config.ts y el nombre de su topic en src/app/app.component.ts, además de instalar los recursos necesarios de Angular que se encuentran en src/app/app.config.ts.
+If you want to use it, remember to change the hostname where your server is hosted in src/app/app.config.ts and the name of your topic in src/app/app.component.ts, and install the necessary Angular resources found in src/app/app.config.ts.
 
-Tome en cuenta que por defecto la app publica "ON" o "OFF" según el estado del toggle switch en el topic "ledControl".
+Note that by default the app publishes “ON” or “OFF” depending on the state of the toggle switch in the “ledControl” topic.
